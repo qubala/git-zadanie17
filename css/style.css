@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+}
+
+h2
+{
+    color: blue;
+}
+
+span
+{
+    color: yellowgreen;
+    font-weight: bold;
+}
